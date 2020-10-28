@@ -1,0 +1,4 @@
+﻿  MinesweeperWindow.cpp
+c:\users\jonas\downloads\minesweeperwindow.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\jonas\downloads\minesweeperwindow.cpp(91): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Øving_10.vcxproj -> C:\Users\jonas\source\repos\Øving_10\Debug\Øving_10.exe

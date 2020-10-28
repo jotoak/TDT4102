@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\jonas\source\repos\øving_2_graf\øving_2_graf\main.cpp(10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\jonas\source\repos\øving_2_graf\øving_2_graf\main.cpp(11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\jonas\source\repos\øving_2_graf\øving_2_graf\main.cpp(19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Øving_2_graf.vcxproj -> C:\Users\jonas\source\repos\Øving_2_graf\Debug\Øving_2_graf.exe

@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of main.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\Øving_4\Øving_4\main.cpp, main.cpp.
+  graph.cpp
+c:\users\jonas\source\repos\øving_4_grafikk\øving_4_grafikk\graph.cpp(7): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\jonas\source\repos\øving_4_grafikk\øving_4_grafikk\graph.cpp(8): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\jonas\source\repos\øving_4_grafikk\øving_4_grafikk\graph.cpp(10): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\jonas\source\repos\øving_4_grafikk\øving_4_grafikk\graph.cpp(11): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\jonas\source\repos\øving_4_grafikk\øving_4_grafikk\graph.cpp(31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\jonas\source\repos\øving_4_grafikk\øving_4_grafikk\graph.cpp(32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Øving_4_grafikk.vcxproj -> C:\Users\jonas\source\repos\Øving_4_grafikk\Debug\Øving_4_grafikk.exe

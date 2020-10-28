@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\jonas\source\repos\øving_2\øving_2\main.cpp(121): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\jonas\source\repos\øving_2\øving_2\main.cpp(122): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\jonas\source\repos\øving_2\øving_2\main.cpp(130): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\jonas\source\repos\øving_2\øving_2\main.cpp(138): warning C4018: '<': signed/unsigned mismatch
+c:\users\jonas\source\repos\øving_2\øving_2\main.cpp(206): error C2664: 'int tolower(int)': cannot convert argument 1 from 'const char [2]' to 'int'
+  c:\users\jonas\source\repos\øving_2\øving_2\main.cpp(206): note: There is no context in which this conversion is possible

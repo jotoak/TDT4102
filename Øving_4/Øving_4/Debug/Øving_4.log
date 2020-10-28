@@ -1,0 +1,5 @@
+﻿  playMastermind.cpp
+c:\users\jonas\source\repos\øving_4\øving_4\playmastermind.cpp(7): warning C4018: '<': signed/unsigned mismatch
+c:\users\jonas\source\repos\øving_4\øving_4\playmastermind.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\jonas\source\repos\øving_4\øving_4\playmastermind.cpp(18): warning C4018: '<': signed/unsigned mismatch
+  Øving_4.vcxproj -> C:\Users\jonas\source\repos\Øving_4\Debug\Øving_4.exe

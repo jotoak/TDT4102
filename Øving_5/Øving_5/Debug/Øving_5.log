@@ -1,0 +1,12 @@
+﻿  Blackjack.cpp
+c:\users\jonas\source\repos\øving_5\øving_5\blackjack.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\jonas\source\repos\øving_5\øving_5\blackjack.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\jonas\source\repos\øving_5\øving_5\blackjack.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\jonas\source\repos\øving_5\øving_5\blackjack.cpp(84): warning C4018: '<': signed/unsigned mismatch
+  Card.cpp
+  CardDeck.cpp
+c:\users\jonas\source\repos\øving_5\øving_5\carddeck.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\jonas\source\repos\øving_5\øving_5\carddeck.cpp(25): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  Øving_5.vcxproj -> C:\Users\jonas\source\repos\Øving_5\Debug\Øving_5.exe
